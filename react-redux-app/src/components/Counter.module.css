@@ -9,6 +9,11 @@
   border-radius: 10px;
   width: 250px;
   margin: auto;
+  color: #08060d;
+}
+
+.counterContainer h2 {
+  color: #08060d;
 }
 
 button {
